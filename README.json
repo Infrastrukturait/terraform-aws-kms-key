@@ -1,0 +1,20 @@
+{
+  "name": "terraform-aws-kms-key",
+  "repo_url": "https://github.com/Infrastrukturait/terraform-aws-kms-key",
+  "license": "GPLv3",
+  "includes": [
+    "docs/terraform.md"
+  ],
+  "authors": [
+    {
+      "name": "Rafał Masiarek",
+      "email": "rafal@masiarek.pl",
+      "github": "rafalmasiarek",
+      "website": "https://masiarek.pl"
+    }
+  ],
+  "context": [
+    "## About",
+    "Terraform module to provision a [KMS](https://aws.amazon.com/kms/) 🔑."
+  ]
+}
